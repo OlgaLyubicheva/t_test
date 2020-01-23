@@ -1,7 +1,7 @@
 {
   "name": "train_time_test",
   "version": "1.0.0",
-  "description": "[DEMO LINK](https://olgalyubicheva.github.io/project_name/)",
+  "description": "[DEMO LINK](https://olgalyubicheva.github.io/t_test/)",
   "main": ".eslintrc.js",
   "scripts": {
     "sass": "sass ./src/styles/index.scss ./src/styles.css",
